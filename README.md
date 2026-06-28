@@ -1,4 +1,4 @@
-# gimg-app-trending-prompts
+# Twitter Trending Prompts
 
 A collection of trending prompts gathered from the web, provided for learning and reference.
 
