@@ -1,4 +1,4 @@
-# Twitter Trending Prompts
+# ChatGPT Image & NanoBanana Prompts
 
 A collection of trending prompts gathered from the web, provided for learning and reference.
 
